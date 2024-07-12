@@ -1,4 +1,4 @@
-(![Untitled Project](https://github.com/user-attachments/assets/dd95fe13-c9f3-4321-b0b2-d395af685a96 )
+![Untitled Project](https://github.com/user-attachments/assets/dd95fe13-c9f3-4321-b0b2-d395af685a96 )
 
 <h1 align="center">Hi 👋, I'm Muskan Liaquat</h1>
 <h3 align="center">I am a frontend developer aspiring to become a full stack developer in the future.</h3>
