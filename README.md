@@ -1,6 +1,9 @@
-![Untitled Project](https://github.com/user-attachments/assets/dd95fe13-c9f3-4321-b0b2-d395af685a96 )
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muskan+Liaquat%E2%9C%A8;%E2%9C%A8Passionate+Frontend+Developer.%E2%9C%A8;%E2%9C%A8Want+your+own+website+?%E2%9C%A8;%E2%9C%A8I+Create+Stunning+Websites%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Muskan Liaquat</h1>
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+
+ <hr>
 <h3 align="center">I am a frontend developer aspiring to become a full stack developer in the future.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
