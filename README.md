@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I recently developed an e-commerce website [The Shine Utensils](https://the-shine-utensils.netlify.app/)
 
-- 🔭 I’m currently working on **Student Research Space**
 
-- 🌱 I’m currently learning **Backend Languages like php and Advanced javscript.**
 
-- 💬 Ask me about **Html, Css, Javascript, Tailwind Css, React, Jquery, Bootstrap, Figma and UI/UX.**
+
+- 🌱 I’m currently learning **Backend Language  php.**
+
+- 💬 Ask me about **Html, Css, Javascript, Tailwind Css, React, Php, MySql, Jquery, Bootstrap, Figma and UI/UX.**
 
 - 📫 How to reach me **muskanliaquat206@gmail.com**
 
