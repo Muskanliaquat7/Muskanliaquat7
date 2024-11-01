@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000width=435&lines=&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muskan+Liaquat%E2%9C%A8;%E2%9C%A8Passionate+Full-Stack+Developer.%E2%9C%A8;%E2%9C%A8Want+your+own+website+?%E2%9C%A8;%E2%9C%A8I+Create+Stunning+Websites%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&lines=&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muskan+Liaquat%E2%9C%A8;%E2%9C%A8Passionate+Full-Stack+Developer.%E2%9C%A8;%E2%9C%A8Want+your+own+website+?%E2%9C%A8;%E2%9C%A8I+Create+Stunning+Websites%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
 
 
