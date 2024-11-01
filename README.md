@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muskan+Liaquat%E2%9C%A8;%E2%9C%A8Passionate+Full-Stack+Developer.%E2%9C%A8;%E2%9C%A8Want+your+own+website+?%E2%9C%A8;%E2%9C%A8I+Create+Stunning+Websites%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Muskan+Liaquat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full-Stack+Developer)](https://git.io/typing-svg)
+
+
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
