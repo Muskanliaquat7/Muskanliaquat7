@@ -1,6 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Muskan+Liaquat)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000width=435&lines=Hey+I'm+Muskan+Liaquat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&width=435&lines=Passionate+Full-Stack+Developer)](https://git.io/typing-svg)
 
 
 
