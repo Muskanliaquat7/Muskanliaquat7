@@ -11,11 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-
-
-
-- 🌱 I’m currently learning **Backend Language  php.**
+<div align="center"> <img src="https://img.shields.io/badge/Full--Stack%20Developer-%2314354C.svg?style=for-the-badge&logo=github&logoColor=white">   <img src="https://img.shields.io/badge/MERN%20Stack%20Enthusiast-%23E4405F.svg?style=for-the-badge&logo=node.js&logoColor=white">
+ </div>
 
 - 💬 Ask me about **Html, Css, Javascript, Tailwind Css, React, Php, MySql, Jquery, Bootstrap, Figma and UI/UX.**
 
@@ -23,16 +20,38 @@
 
 - ⚡ Fun fact **I always solve my code errors myself, no matter how many hours or days it takes.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muskan liaquat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan liaquat" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" height="40"/>
+</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskanliaquat7&show_icons=true&locale=en&layout=compact" alt="muskanliaquat7" /></p>
+---
+📊 GitHub Stats:
+<div align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=muskanliaquat7&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanliaquat7&theme=tokyonight" alt="GitHub Streak" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanliaquat7&layout=compact&theme=tokyonight" alt="Top Languages" /> </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanliaquat7&show_icons=true&locale=en" alt="muskanliaquat7" /></p>
+### 🎨 Projects Showcase:
+- 🌐 **[Portfolio Website](https://yourportfolio.com)** - A modern and responsive portfolio showcasing my projects.
+- 🚀 **[Collaborative Research Platform](https://researchplatform.com)** - A platform for students to share and collaborate on research projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanliaquat7&" alt="muskanliaquat7" /></p>
+### 🥳 Fun Fact:
+>  ⚡ Fun Fact: <b>I'm a night owl; I code the best when the world sleeps! 🌙
+
+### 🛠️ How to Reach Me:
+<p align="center">
+  <a href="mailto:muskanliaquat206@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  </a>
+  <a href="https://linkedin.com/in/muskanliaquat">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+</p>
